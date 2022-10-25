@@ -1,1 +1,1 @@
-# core-lib-go
+core-lib-go
